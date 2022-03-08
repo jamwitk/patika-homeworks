@@ -1,0 +1,15 @@
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\bin\Debug\net6.0\FirstHomeWork.exe
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\bin\Debug\net6.0\FirstHomeWork.deps.json
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\bin\Debug\net6.0\FirstHomeWork.runtimeconfig.json
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\bin\Debug\net6.0\FirstHomeWork.dll
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\bin\Debug\net6.0\FirstHomeWork.pdb
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\FirstHomeWork.csproj.AssemblyReference.cache
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\FirstHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\FirstHomeWork.AssemblyInfoInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\FirstHomeWork.AssemblyInfo.cs
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\FirstHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\FirstHomeWork.dll
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\refint\FirstHomeWork.dll
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\FirstHomeWork.pdb
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\FirstHomeWork.genruntimeconfig.cache
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\FirstHomeWork\obj\Debug\net6.0\ref\FirstHomeWork.dll

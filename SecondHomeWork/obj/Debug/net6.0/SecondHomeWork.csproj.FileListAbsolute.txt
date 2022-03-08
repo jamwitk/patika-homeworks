@@ -1,0 +1,15 @@
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.csproj.AssemblyReference.cache
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.AssemblyInfoInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.AssemblyInfo.cs
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.exe
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.deps.json
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.runtimeconfig.json
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.dll
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.pdb
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.dll
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\refint\SecondHomeWork.dll
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.pdb
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.genruntimeconfig.cache
+C:\Users\hushd\Desktop\Software Architecture\FirstHomeWorkSln\SecondHomeWork\obj\Debug\net6.0\ref\SecondHomeWork.dll
